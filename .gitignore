@@ -60,7 +60,11 @@ typings/
 # next.js build output
 .next
 
-lib
-coverage
-node_modules
+# editor config file
+.editorconfig
+
+# npm package lock file
 package-lock.json
+
+# project build folder
+lib
