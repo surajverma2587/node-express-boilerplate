@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+lib
+coverage
+node_modules
+package-lock.json
